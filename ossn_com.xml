@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Restrict Group Creation - Custom</name>
+    <id>RestrictGroupCreation</id>
+    <description>Restricts creating of new groups to admins only</description>
+    <author>Michael Zülsdorff</author>
+    <author_url>https://comz.z-mans.net/</author_url>
+    <license>GNU General Public License v2</license>
+    <license_url>https://www.gnu.de/documents/gpl-2.0.en.html</license_url>
+    <version>6.2</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.0</version>
+	</requires>
+</component>
